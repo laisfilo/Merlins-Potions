@@ -1,0 +1,150 @@
+﻿body {
+    font-family: 'Libre Baskerville', 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.container-fluid {
+    margin: 0;
+}
+
+.bg-1 {
+    margin: 50px 0px 0px 20px;
+}
+
+.bg-2 {
+    margin: 50px 0px 0px 0px;
+}
+.bg-3 {
+    background-color: lightgrey;
+    padding-top: 30px;
+}
+/* nav 1 */
+.btn {
+    background-color: white;
+    border-color: lightgrey;
+    color: #fe4600;
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+}
+.btn2 {
+    background-color: #fe4600;
+    border-color: lightgrey;
+    color: white;
+    font-family: Oswald, sans-serif;
+    font-size: 16px;
+
+}
+.fas {
+    color: #fe4600;
+}
+.titu {
+    font-family: Oswald, sans-serif;
+    color: #fe4600;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+.subtitu {
+    font-family: Libre Baskerville, serif;
+    font-size: 18px;
+
+}
+.titu2 {
+    font-family: Libre Baskerville, serif;
+    font-size: 16px;
+    color: #fe4600;
+}
+.titu3 {
+    font-family: Libre Baskerville, serif;
+    font-size: 12px;
+    color: #fe4600;
+}
+/* nav 2 */
+.nav-2 {
+    background-color: #563069;
+    color: white;
+    border: 0px;
+    font-family: Libre Baskerville, serif;
+    font-size: 14px;
+}
+.nav-link{
+    color:white;
+}
+.navbar-btn {
+    color: white;
+    font-family: Libre Baskerville, serif;
+    font-size: 14px;
+    border: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(0,0,0); /* opacidade */
+    background-color: rgba(0,0,0,0.4); /* opacidade */
+}
+/* corpo */
+.link {
+    font-family: Oswald, sans-serif;
+    color: #fe4600;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+.titu4 {
+    font-family: Libre Baskerville, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-item{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.box {
+    margin: 40px 0 80px 0;
+}
+.preco2 {
+    color: #fe4600;
+    font-weight: bold;
+}
+/* foot */
+.signup {
+    background-color: white;
+    padding: 10px;
+}
+.foot1 {
+    padding: 10px;
+    margin: 10px;
+}
+a:hover {
+    color: white;
+}
+/* Modal */
+.modal {
+    display: none;
+    overflow: auto;
+    background-color: rgb(0,0,0); /* opacidade */
+    background-color: rgba(0,0,0,0.4); /* opacidade */
+}
+.modal-content {
+    bottom: 0;
+    background-color: #fefefe;
+}
+.close {
+    color: #fe4600;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.text{
+    text-align:left;
+}
+h2{
+    font-size:16px;
+    font-weight:bold;
+}
+.preco {
+    font-family: Oswald, sans-serif;
+    color: #fe4600;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
